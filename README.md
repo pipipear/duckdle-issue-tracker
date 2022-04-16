@@ -1,2 +1,1 @@
-# duckdle-issue-tracker
-issue tracker for duckdle.github.io
+# Issue tracker for Duckdle!
