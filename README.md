@@ -1,1 +1,1 @@
-# Issue tracker for Duckdle!
+# Issue tracker for Duckdle
